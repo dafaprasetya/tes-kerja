@@ -55,7 +55,7 @@ Project ini dibangun sesuai dengan ketentuan yang ada pada dokumen soal test.
 
 ---
 
-## 📧 Catatan
+## Catatan
 Project ini dibuat sebagai bagian dari **Technical Test Programmer & Data Engineer**.  
 Hasil test sudah saya kerjakan dengan maksimal dan seluruh requirement sudah terpenuhi.
 
