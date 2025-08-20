@@ -24,6 +24,3 @@ Berikut rangkuman fitur yang telah berhasil dibuat dan diuji:
 - **Bahasa Pemrograman:** PHP
 - **Frontend:** Blade Template, Bootstrap
 
-## Struktur Database
-Database MySQL digunakan untuk menyimpan semua data, termasuk data yang diimpor dari Excel.
-
